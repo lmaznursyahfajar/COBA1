@@ -1,0 +1,1 @@
+print("selamat anda berada di github")
